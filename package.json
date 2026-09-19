@@ -31,7 +31,7 @@
     "motion": "^12.23.24",
     "react": "^19.0.1",
     "react-dom": "^19.0.1",
-    "vite": "^6.2.3",
+    "vite": "^8.3.0",
     "zod": "^4.6.5"
   },
   "devDependencies": {
@@ -47,6 +47,6 @@
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
     "typescript": "~5.8.2",
-    "vite": "^6.2.3"
+    "vite": "^8.3.0"
   }
 }
